@@ -1,0 +1,33 @@
+{
+  "name": "PreCooperativa Familiar \"Los Serranitos\"",
+  "short_name": "Los Serranitos",
+  "description": "Sistema de Aportes, Créditos y Contabilidad de la PreCooperativa Familiar \"Los Serranitos\".",
+  "start_url": "./cooperativa.html",
+  "id": "./cooperativa.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eef2f7",
+  "theme_color": "#1f3a5f",
+  "lang": "es-EC",
+  "icons": [
+    {
+      "src": "pwa-icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "pwa-icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
